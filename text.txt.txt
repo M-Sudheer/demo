@@ -1,2 +1,1 @@
-This is Git Tool.
-Just a text line.
+Welcome to NIIT
